@@ -19,3 +19,4 @@ Suppose we have three types of characters in a GameApp:
 
 ## UML Class Diagram
 ![Image]()
+
