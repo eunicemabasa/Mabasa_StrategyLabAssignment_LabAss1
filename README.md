@@ -18,5 +18,5 @@ Suppose we have three types of characters in a GameApp:
 3. SwingSword
 
 ## UML Class Diagram
-![Image]()
+![Image](https://github.com/eunicemabasa/Mabasa_StrategyLabAssignment_LabAss1/blob/main/Strategy%20Pattern.pdf)
 
